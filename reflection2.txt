@@ -28,4 +28,13 @@ a clear message.
 
 -----
 
+What are some situations whn branches would be helpful in keeping your 
+history organized? How would branches help?
+
+Branches can be used for experimental features that you do not wish 
+to add to the master (yet).  With braches users can experiment with their
+programs without affecting the main branch.
+
+-----
+
 
