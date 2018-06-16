@@ -1,4 +1,5 @@
-When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your work 
+local?
 
 Users would want to do this if they wish to collaborate with others on their 
 work.
@@ -23,6 +24,16 @@ Clones: Use to make a copy of a repository to a local directory.
 
 Branch: Use to add an experimental commit branch for things such as new features
 leaving the master branch intact.
+
+-----
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+The benefit of this is that you have a saved point in which your repository
+matched the other repository at a given time.  With this, it can be observable
+what changes have been made since it was last copied on both GitHub and the
+local repository.
 
 -----
 
