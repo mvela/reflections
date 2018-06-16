@@ -37,4 +37,12 @@ programs without affecting the main branch.
 
 -----
 
+How do the diagrams help you visualize the branch structure?
+
+The diagrams give a visual representations of commits and their branches.
+With the diagrams users can see where commits are branched off from the
+master branch.
+
+-----
+
 
