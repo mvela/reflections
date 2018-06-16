@@ -13,4 +13,17 @@ would be overwritten.
 
 -----
 
+Describe the differences between forks, clones, and branches. When would you
+use one instead of another?
+
+Forks: Use to copy a repository on GitHub in order to modify it for your own
+purposes.
+
+Clones: Use to make a copy of a repository to a local directory.
+
+Branch: Use to add an experimental commit branch for things such as new features
+leaving the master branch intact.
+
+-----
+
 
