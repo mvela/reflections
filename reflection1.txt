@@ -1,0 +1,70 @@
+How did viewing a diff between two versions help you spot the bug?
+
+The previous code was working before, therefore the error must have 
+been made in a recent change.  By comparing the two versions, the 
+recent changes are highlighted and it is much easier to spot the 
+error that was made.
+
+----
+
+How could having easy access to the entire history of a file make
+you a more efficient programmer in the long term?
+
+Being able to access to all versions of a program will allow easier
+control of the program by finding unnecessary or erraneous changes
+that were made.
+
+-----
+
+What do you think are the pros and cons of manually choosing when to
+create a commit, like you do in Git, vs having versions automatically
+saved, like Google Docs does?
+
+Pros:
+- Each change can be created to be significant
+- Less versions will be created
+- Easier to navigate through changes and see what has changed
+Cons:
+- User error, such as forgetting to save
+
+-----
+
+Why do you think some version control systems, like Git, allow saving
+multiple files in one commit, while others, like Google Docs, treat
+each file seperately?
+
+Git allows saving multiple files in one commit because the files may
+be interlinked and will require to all be saved at once to work 
+properly.  Google Docs treats each file seperately because files stored
+in Docs are usually not interlinked and are not dependent on each other.
+
+-----
+
+How can you use the commands git log and git diff to view the history of
+files?
+
+Git log shows all commits and their corresponding user messages to what
+has changed.  It is possible to view the changes in the code by using 
+git diff with itself and the previous version commited.
+
+-----
+
+How might using version control make you more confident to make changes that 
+could break something?
+
+VCS allows greater confidence in making changes that might break something
+because as long as previous working versions were commited, changes could 
+always be reverted or corrected by comparing the versions and seeing what
+could have gone wrong.
+
+-----
+
+Now that you have your workspace set up, what do you want to try using
+Git for?
+
+I would like to use git for creating some small python projects in order
+to increase my understanding and familiarity with both Git and Python.
+
+-----
+
+
