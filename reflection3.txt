@@ -46,4 +46,15 @@ feature has been complete.  Using GitHub makes collaboration much easier.
 
 -----
 
+When would you want to make changes in a serparate branch rather than directly
+in master? What benefits does each aproach have?
 
+Making changes in a seperate branch rather than the master makes sense when 
+you want to experiment or add a feature but still leave master intact.  When
+the feature is implemented, a pull request can be made so that others can 
+review the changes that have been made before merging them. One downside is that
+it is more complicated because if changes were made to the master while working 
+on this branch, those changes must be merged into the branch first before being 
+able to merge the branch to the master in the GitHub repository.
+
+-----
