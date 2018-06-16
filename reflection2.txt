@@ -54,4 +54,17 @@ lines as necessary.
 
 -----
 
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+
+Pros:
+- Easy
+- Fast
+- Saves time
+Cons:
+- Conflicts
+- May not merge correctly
+
+-----
+
 
