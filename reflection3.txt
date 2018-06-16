@@ -37,4 +37,13 @@ local repository.
 
 -----
 
+How would you collaborate without using Git or GitHub? What would be easier,
+and what would be harder?
+
+Without the use of Git or GitHub, I would assign team members to work on 
+specific features of a program and manually merge them together once a 
+feature has been complete.  Using GitHub makes collaboration much easier.
+
+-----
+
 
