@@ -13,3 +13,19 @@ The staging area is the area in which files are added that will need
 to be commited.  The value in this is that it presents an area for the 
 user to observe what files they have added that will be commited, ensuring
 other files that they do not wish to be commited are not commited.
+
+-----
+
+How can you use the staging area to make sure you have on commit per logical
+change?
+
+Using "git status" will allow the user to see what is currently in the staging
+area.  They can also use "git diff" to see the difference between the staging
+area and the repository, which will show the differences between the files
+showing the user what changes have been made.  Once the user is sure that 
+only one logical change has been made, they can commit their change with
+a clear message.
+
+-----
+
+
