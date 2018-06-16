@@ -45,4 +45,13 @@ master branch.
 
 -----
 
+What is the result of merging two branches together? Why do we represent
+it in the diagram the way we do?
+
+The result of merging two branches together is combining the lines of code
+that was added in another branch to the other branch, keeping and removing
+lines as necessary.
+
+-----
+
 
